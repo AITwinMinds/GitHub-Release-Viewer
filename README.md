@@ -11,6 +11,10 @@ Download the latest release for Windows:
 
 [GitHub Release Viewer v1.0](https://github.com/AITwinMinds/GitHub-Release-Viewer/releases/latest/download/GitHub-Release-Viewer.exe)
 
+## Application Preview
+
+![GitHub Release Viewer Preview](app_preview.png)
+
 ## Features
 
 - **Release Information:** View details such as tag name, author, published date, and more.
@@ -36,7 +40,24 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). See the [LICENSE](LICENSE) file for details.
 
-## Application Preview
+## Support Us
 
-![GitHub Release Viewer Preview](app_preview.png)
+This app is completely free! If you find it helpful, consider supporting us in the following ways:
+
+- ⭐ Star this repository on [GitHub](https://github.com/AITwinMinds/ChatGPT-UI).
+  
+- 🐦 Follow us on X (Twitter): [@AITwinMinds](https://twitter.com/AITwinMinds)
+
+- 📣 Join our Telegram Channel: [AITwinMinds](https://t.me/AITwinMinds) for discussions and announcements.
+
+- 🎥 Subscribe to our YouTube Channel: [AITwinMinds](https://www.youtube.com/@AITwinMinds) for video tutorials and updates.
+
+- 📸 Follow us on Instagram: [@AITwinMinds](https://www.instagram.com/AITwinMinds)
+
+
+Don't forget to provide feedback by commenting on the repository and help us make it better. Share it with your friends and let them benefit from this tool!
+
+## Contact
+
+For any inquiries, please contact us at [AITwinMinds@gmail.com](mailto:AITwinMinds@gmail.com).
 
