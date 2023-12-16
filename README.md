@@ -1,6 +1,6 @@
 # GitHub Release Viewer
 
-<img align="right" width="100" height="100" src="https://github.com/AITwinMinds/GitHub-Release-Viewer/assets/127874551/0219f7a0-8e75-490c-8464-55a9172819ff" alt="ChatGPT Interface">
+<img align="right" width="120" height="120" src="https://github.com/AITwinMinds/GitHub-Release-Viewer/assets/127874551/0219f7a0-8e75-490c-8464-55a9172819ff" alt="ChatGPT Interface">
 
 GitHub Release Viewer is a PyQt5 application that simplifies the process of viewing release information for a GitHub repository. This tool fetches data from the GitHub API and organizes it into an easy-to-read tree format.
 
