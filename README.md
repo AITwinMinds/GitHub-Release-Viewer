@@ -7,13 +7,18 @@ GitHub Release Viewer is a PyQt5 application that simplifies the process of view
 
 ## Download
 
-Download the latest release for Windows:
+- Executable files for different operating systems can be downloaded from the [Releases](https://github.com/AITwinMinds/GitHub-Release-Viewer/releases) page.
 
-[GitHub Release Viewer v1.0](https://github.com/AITwinMinds/GitHub-Release-Viewer/releases/latest/download/GitHub-Release-Viewer.exe)
+  - 💻 **Windows**: [Direct download for Windows](https://github.com/AITwinMinds/GitHub-Release-Viewer/releases/latest/download/GitHub-Release-Viewer.exe)
+  - 🍏 **macOS**: *Coming soon*
+  - 🐧 **Linux**: *Coming soon*
 
 ## Application Preview
 
-![GitHub Release Viewer Preview](app_preview.png)
+<div align="center">
+  <img src="https://github.com/AITwinMinds/GitHub-Release-Viewer/assets/127874551/a552a385-9f3c-44ea-b75a-68920547e0e6" />
+</div>
+<br>
 
 ## Features
 
@@ -21,16 +26,17 @@ Download the latest release for Windows:
 - **Release Assets:** Display information about release assets, including download counts.
 - **User Reactions:** Explore user reactions to releases.
 
+<div align="center">
+  <img src="https://github.com/AITwinMinds/GitHub-Release-Viewer/assets/127874551/e599fa58-5249-4ab8-a55e-0f47df8eb479" />
+</div>
+<br>
+
 ## Usage
 
 1. Download the latest release executable.
 2. Run `GitHub-Release-Viewer.exe`.
 3. Enter the GitHub repository link in the provided input field.
 4. Click the "Refresh" button to fetch and display release information.
-
-## Styling
-
-The application features a dark theme with carefully chosen colors for improved readability and a pleasant user experience.
 
 ## Contributing
 
@@ -44,7 +50,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE). S
 
 This app is completely free! If you find it helpful, consider supporting us in the following ways:
 
-- ⭐ Star this repository on [GitHub](https://github.com/AITwinMinds/ChatGPT-UI).
+- ⭐ Star this repository on [GitHub](https://github.com/AITwinMinds/GitHub-Release-Viewer).
   
 - 🐦 Follow us on X (Twitter): [@AITwinMinds](https://twitter.com/AITwinMinds)
 
